@@ -1,0 +1,6 @@
+flwr
+tensorflow
+pandas
+Pillow
+Keras-Applications
+numpy==1.20.1
