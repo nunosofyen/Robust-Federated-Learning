@@ -68,4 +68,7 @@ docker attach <container-id>
 
 
 ## Add randomisation:
+Randomisation is applied during inference time to fight against the adversarial attacks and it is composed of random resizing and random paddding as follows. 
+![](randomisation.png)
+
 
